@@ -1,0 +1,133 @@
+{
+  "entity": {
+    "name": "Café Lumiere / Lumiere Coffee",
+    "location": {
+      "municipality": "Valle de Ángeles",
+      "department": "Francisco Morazán",
+      "country": "Honduras",
+      "region": "Central Highlands (Zona Central)",
+      "associated_complex": "Galería Sixtina / Centro Comercial Portal del Valle",
+      "street_reference": "Calle Principal de Valle de Ángeles, a pocos minutos del Parque Central"
+    },
+    "cultural_association": {
+      "host_venue": "Galería Sixtina",
+      "founder_curator": "Julio Visquerra (Julio Vizquerra)",
+      "artistic_concept": "Fusión de galería de arte, pintura nacional hondureña, conciertos y experiencia de café y repostería artesanal",
+      "inauguration_date": "Mayo de 2026",
+      "atmosphere": "Espacio cultural bohemio, acogedor, rodeado de obras pictóricas, clima fresco de montaña y bosque nublado característico de Valle de Ángeles"
+    },
+    "offerings_and_concept": {
+      "beverages": [
+        "Café hondureño de altura / especialidad",
+        "Espresso y bebidas tradicionales a base de espresso (Cappuccino, Latte)",
+        "Café filtrado / métodos tradicionales y café de palo",
+        "Bebidas frías (Iced coffee, frappes, granitas)",
+        "Infusiones naturales y tés de hierbas de la montaña"
+      ],
+      "food_and_bakery": [
+        "Desayunos típicos y continentales",
+        "Repostería artesanal local y panes caseros",
+        "Opciones de aperitivos ligeros para acompañar visitas a la galería de arte"
+      ],
+      "events_and_activities": [
+        "Exposiciones de arte pictórico",
+        "Clases de pintura y talleres de arte de fin de semana",
+        "Pequeños recitales y conciertos de música en vivo con artistas locales"
+      ]
+    },
+    "local_context_valle_de_angeles": {
+      "tourism_status": "Pueblo con Encanto / Destino turístico patrimonial y artesanal",
+      "climate": "Clima templado de montaña (18°C - 24°C)",
+      "distance_from_capital": "Aprox. 22 km al este de Tegucigalpa (30 - 45 min en vehículo)"
+    },
+    "regional_related_entities": [
+      {
+        "name": "Lumiere Hangout",
+        "city": "Tegucigalpa",
+        "department": "Francisco Morazán",
+        "country": "Honduras",
+        "address": "4R33+858, Avenida República de Chile, Colonia Palmira",
+        "phone": "+504 9992-2035",
+        "type": "Restaurante grill & bar / cocina europea e internacional"
+      }
+    ],
+    "disambiguation_international_venues": [
+      {
+        "name": "Café Lumière (Cinéfilo)",
+        "location": "Ciudad de México (CDMX), México",
+        "details": "Cafetería y restaurante temático de cine clásico en honor a los hermanos Lumière (Gobernador Ignacio Esteva 20, San Miguel Chapultepec)"
+      },
+      {
+        "name": "Café Lumiere Toluca",
+        "location": "Toluca, Estado de México, México",
+        "details": "Cafetería y sándwiches en Paseo Colón"
+      },
+      {
+        "name": "Lumière Café Colombiano",
+        "location": "San Diego, California, EE. UU.",
+        "details": "Marca de café de especialidad de origen único de Boyacá, Colombia, fundada por Luz Dary Niño"
+      },
+      {
+        "name": "Lumiere Cafe Dubai",
+        "location": "Dubai, Emiratos Árabes Unidos",
+        "details": "Cafetería y restaurante con vista a la marina en Fishing Harbour / Umm Suqeim"
+      },
+      {
+        "name": "Lumière Coffee & Pastry",
+        "location": "Kota Kinabalu, Sabah, Malasia",
+        "details": "Cafetería de especialidad y pastelería en Likas"
+      },
+      {
+        "name": "Lumiere Coffee No1 Ltd / Blenz",
+        "location": "Vancouver, Columbia Británica, Canadá",
+        "details": "Empresa registrada en Vancouver"
+      }
+    ],
+    "notable_valle_de_angeles_coffee_scene": [
+      {
+        "name": "Varietal Coffee Roasters",
+        "location": "Plaza Mineral, Valle de Ángeles",
+        "phone": "+504 9969-8657",
+        "highlight": "Microtostaduría de cafés especiales de origen hondureño (Chemex, pour over, espresso)"
+      },
+      {
+        "name": "Café de Floré",
+        "location": "Centro de Valle de Ángeles",
+        "highlight": "Fusión de floristería (Vía Floré) y café gourmet con estética parisina creado por Mariela Valladares"
+      },
+      {
+        "name": "Boker Café",
+        "location": "Barrio El Centro, atrás de la Iglesia Católica",
+        "highlight": "Casona histórica restaurada del siglo XIX (antigua residencia del presidente Marco Aurelio Soto)"
+      },
+      {
+        "name": "Café Beverly",
+        "location": "Barrio Abajo, 2da entrada",
+        "phone": "+504 8789-4205",
+        "highlight": "Cafetería rústica y restaurante con menú mexicano-hondureño"
+      },
+      {
+        "name": "Como Era Antes",
+        "location": "Frente al Parque Central de Valle de Ángeles",
+        "highlight": "Galería-Café tradicional y sede del Cine Club Sami Kafati"
+      },
+      {
+        "name": "D'Palo Coffee Bar",
+        "location": "Centro de Valle de Ángeles",
+        "phone": "+504 2766-2948",
+        "highlight": "Cafetería y punto de encuentro céntrico"
+      }
+    ]
+  },
+  "scraping_metadata": {
+    "date": "2026-09-27",
+    "sources_queried": [
+      "OpenStreetMap (OSM)",
+      "Regional tourism databases (HondurasTips, EspacioHonduras, EhPlusTV)",
+      "Social media listings (Facebook, Instagram, TikTok)",
+      "Global business registries (DENUE, Yelp, Tripadvisor, Evendo)",
+      "News publications (La Prensa HN, El Heraldo HN, Revista Estilo, Soy Datos HN)"
+    ],
+    "verification_summary": "Lumiere Coffee / Café Lumiere en Valle de Ángeles se ubica dentro de la Galería Sixtina (propiedad del maestro Julio Visquerra), en la calle principal hacia el centro histórico, integrando café de montaña y arte nacional."
+  }
+}
