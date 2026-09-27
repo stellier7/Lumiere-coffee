@@ -1,0 +1,156 @@
+{
+  "queried_at": "2026-09-27",
+  "subject": {
+    "names": ["Lumière Coffee", "Lumiére Coffee", "Café Lumiere"],
+    "locality": "Valle de Ángeles, Francisco Morazán, Honduras"
+  },
+  "official_or_primary": [
+    {
+      "type": "instagram_profile",
+      "url": "https://www.instagram.com/lumierecoffee_hn/",
+      "handle": "lumierecoffee_hn",
+      "display_name": "Lumiére Coffee",
+      "followers": 615,
+      "following": 13,
+      "posts": 10,
+      "bio": "En Lumière Coffee creemos que cada detalle importa. Un espacio creado con amor, fe, propósito y pasión por lo auténtico. Portal del Valle"
+    },
+    {
+      "type": "tiktok_profile",
+      "url": "https://www.tiktok.com/@lumierecoffeehn",
+      "handle": "lumierecoffeehn",
+      "display_name": "Lumiére Coffee",
+      "followers": 232,
+      "following": 8,
+      "likes": 1080
+    }
+  ],
+  "instagram_posts": [
+    {
+      "date": "2026-05-19",
+      "url": "https://www.instagram.com/p/DYh7sl-TsLB/",
+      "caption": "El desayuno perfecto si existe y te está esperando en Lumiére Coffee"
+    },
+    {
+      "date": "2026-05-28",
+      "url": "https://www.instagram.com/reel/DY42HW7zNtq/",
+      "caption": "Un rincón que merece ser compartido!"
+    },
+    {
+      "date": "2026-05-29",
+      "url": "https://www.instagram.com/reel/DY7hWPgTzpu/",
+      "caption": "Una parada obligatoria en Valle de Ángeles. Te enseñamos cómo llegar a Lumière Coffee"
+    },
+    {
+      "date": "2026-05-30",
+      "url": "https://www.instagram.com/reel/DY94nMeTyrM/",
+      "caption": "Un desayuno rico, una buena actitud y todo listo para un gran día, ven y disfruta de nuestra variedad de desayunos, solo en Lumiére Coffee."
+    },
+    {
+      "date": "2026-06-13",
+      "url": "https://www.instagram.com/reel/DZiXZoqTeOb/",
+      "caption": "Pequeños detalles que hacen grandes momentos Te esperamos en Lumière Coffee."
+    },
+    {
+      "date": "2026-07-10",
+      "url": "https://www.instagram.com/p/DaohEO9zz3b/",
+      "caption": "POV: Haaland descubrió Lumière Coffee y ahora no deja de venir. Vendrías por uno?"
+    },
+    {
+      "date": "2026-07-15",
+      "url": "https://www.instagram.com/reel/Da1c-b1OiiA/",
+      "likes": 49,
+      "caption": "Si se te antojó con solo verlo, imagínate probarlo en persona. Date una vuelta por Lumière Coffee hoy y disfruta del mejor ambiente."
+    },
+    {
+      "date": "2026-09-15",
+      "url": "https://www.instagram.com/reel/DdUWIH2z5uw/",
+      "likes": 138,
+      "comments": 48,
+      "caption": "Feriado + Valle de Ángeles = Plan resuelto. Date una vuelta cerquita de la capital, disfrutá el camino y aprovechá la promoción sorpresa que tenemos preparada para estos feriados. Estamos ubicados en Hotel Boutique La Casona"
+    }
+  ],
+  "tiktok_videos": [
+    {
+      "id": "7637153735298256148",
+      "created_utc": "2026-05-07T14:16:59Z",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7637153735298256148",
+      "caption": "Donde el café se convertirá en experiencia y cada detalle transmitirá calidez. Muy pronto, Lumiére Coffee abrirá sus puertas..."
+    },
+    {
+      "id": "7644181518511869204",
+      "created_utc": "2026-05-26T12:48:23Z",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7644181518511869204",
+      "caption": ""
+    },
+    {
+      "id": "7644183422608411925",
+      "created_utc": "2026-05-26T12:55:46Z",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7644183422608411925",
+      "caption": "La combinación perfecta para alegrar tu día!"
+    },
+    {
+      "id": "7685852557058624788",
+      "created_utc": "2026-09-15T19:53:17Z",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7685852557058624788",
+      "likes": 422,
+      "caption": "Feriado + Valle de Ángeles = Plan resuelto... Estamos ubicados en Hotel Boutique La Casona"
+    }
+  ],
+  "third_party_mentions": [
+    {
+      "outlet": "Valle de Ángeles Facebook",
+      "url": "https://www.facebook.com/valledeangeles/videos/-date-un-gusto-y-visita-caf%C3%A9-lumiere-disfruta-de-un-delicioso-caf%C3%A9-exquisitos-de/1853706319372166/",
+      "photo_credit": "Otto Chavez",
+      "address_text": "Una cuadra abajo del parque, Portal del Valle, esquina opuesta a Plaza Mineral"
+    },
+    {
+      "outlet": "Valle de Angeles (Honduras) TikTok",
+      "url": "https://www.tiktok.com/@valledeangeles.honduras/video/7645322609202105607",
+      "created_utc": "2026-05-29T14:36:24Z",
+      "tags": ["@Lumiére Coffee"]
+    },
+    {
+      "outlet": "Valle de Angeles (Honduras) TikTok",
+      "url": "https://www.tiktok.com/@valledeangeles.honduras/video/7644586081832291591",
+      "created_utc": "2026-05-27T14:58:17Z"
+    }
+  ],
+  "related_property": {
+    "note": "Hotel and plaza share address and two phone numbers. Not confirmed as Lumière Coffee's own contact.",
+    "name": "Boutique Hotel La Casona / Portal del Valle",
+    "address": "Barrio El Centro, 2nda Calle, Valle de Ángeles, Francisco Morazán, Honduras",
+    "booking_address": "Calle Hierro Barro Verde, 11101 Valle de Ángeles, Honduras",
+    "approx_coordinates": { "lat": 14.16171, "lon": -87.03455, "source": "worldplaces Portal del Valle" },
+    "phones": ["+504 2243-2165", "+504 9901-0234", "+504 9453-4487"],
+    "email": "businessnst@pm.me",
+    "website_hotel": "https://hotellacasonahn.com/",
+    "website_plaza": "http://www.portaldelvallehn.com/",
+    "facebook": "https://www.facebook.com/lacasonahotelhnd/",
+    "instagram": "https://www.instagram.com/lacasonahotelhnd/",
+    "booking": "https://www.booking.com/hotel/hn/boutique-la-casona.html"
+  },
+  "not_this_business": [
+    {
+      "name": "Restaurante Lumière / Lumiere Hangout",
+      "place": "Tegucigalpa, Honduras",
+      "note": "Restaurant founded 1998; Multiplaza / Colonia Palmira"
+    },
+    {
+      "name": "Restaurante La Casona Del Valle",
+      "place": "Valle de Ángeles, Barrio Arriba",
+      "note": "Separate restaurant near the police post"
+    }
+  ],
+  "not_found": [
+    "official website",
+    "published hours",
+    "menu or prices",
+    "café-specific phone or WhatsApp",
+    "owner or legal name",
+    "Google Maps / OSM / Apple Maps listing",
+    "TripAdvisor / Yelp / Google reviews",
+    "delivery-app listing",
+    "news articles"
+  ]
+}
