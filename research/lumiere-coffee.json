@@ -1,0 +1,265 @@
+{
+  "$comment": "Structured record of everything found about Lumière Coffee on the public web. See lumiere-coffee-dossier.md for narrative and caveats. Confidence values: confirmed | reported | unverified.",
+  "collectedAt": "2026-09-27",
+  "business": {
+    "name": "Lumière Coffee",
+    "nameAsStyledOnProfiles": "Lumiére Coffee",
+    "alternateNames": ["Café Lumiere", "Lumiere Coffee"],
+    "category": "Coffee shop, breakfast and brunch",
+    "country": "Honduras",
+    "department": "Francisco Morazán",
+    "town": "Valle de Ángeles",
+    "website": null,
+    "phone": null,
+    "email": null,
+    "tagline": "En Lumière Coffee creemos que cada detalle importa",
+    "bio": "En Lumière Coffee creemos que cada detalle importa ☕ Un espacio creado con amor, fe, propósito y pasión por lo auténtico. 📍Portal del Valle",
+    "confidence": "confirmed"
+  },
+  "location": {
+    "venue": "Portal del Valle",
+    "coLocatedWith": "Boutique Hotel La Casona",
+    "streetAddress": "Barrio El Centro, 2nda Calle",
+    "landmarkDirections": "Una cuadra abajo del parque, esquina opuesta a Plaza Mineral",
+    "landmarkDirectionsEn": "One block downhill from the central park, on the corner opposite Plaza Mineral",
+    "coordinates": null,
+    "coordinatesNote": "No café-specific coordinates exist in any public dataset. Valle de Ángeles town centre is 14.1571039, -87.0421785 per Nominatim.",
+    "openingHours": null,
+    "openingHoursNote": "Not published anywhere. Portal del Valle (the plaza) advertises 08:00-23:00 daily, which is not necessarily the café's schedule.",
+    "confidence": "confirmed"
+  },
+  "hostVenue": {
+    "name": "Portal del Valle",
+    "type": "Plaza comercial",
+    "website": "http://www.portaldelvallehn.com/",
+    "description": "Colonial-architecture open-air commercial plaza in the centre of Valle de Ángeles with 15 units from 14 m² to 125 m².",
+    "address": "Barrio El Centro, 2nda Calle, Valle de Ángeles, Francisco Morazán, Honduras",
+    "phone": "+504 2243-2165",
+    "mobile": "+504 9901-0234",
+    "email": "businessnst@pm.me",
+    "advertisedHours": "Monday-Sunday 08:00-23:00",
+    "unitsRented": ["Local 7", "Local 8", "Local 10", "Local 11", "Local 13"],
+    "confidence": "confirmed"
+  },
+  "coLocatedHotel": {
+    "name": "Boutique Hotel La Casona",
+    "website": "https://hotellacasonahn.com/",
+    "facebook": "https://www.facebook.com/lacasonahotelhnd/",
+    "facebookPhone": "+504 9453-4487",
+    "description": "La Casona- Boutique Hotel con 13 habitaciones de lujo ubicadas en la nueva plaza comercial Portal del Valle en Valle de Ángeles",
+    "rooms": 13,
+    "suites": 3,
+    "standardRateLempiras": 2390,
+    "suiteRateLempiras": 3390,
+    "starRating": 4,
+    "listedOn": ["Booking.com", "Trivago", "TripAdvisor", "Planet of Hotels"],
+    "relationshipToCafe": "Unstated. The café says it is located at the hotel; no source confirms shared ownership.",
+    "confidence": "confirmed"
+  },
+  "socialProfiles": {
+    "instagram": {
+      "handle": "lumierecoffee_hn",
+      "url": "https://www.instagram.com/lumierecoffee_hn/",
+      "displayName": "Lumiére Coffee",
+      "followers": 816,
+      "followersEarlierSnapshot": 615,
+      "following": 12,
+      "posts": 10,
+      "confidence": "confirmed"
+    },
+    "tiktok": {
+      "handle": "lumierecoffeehn",
+      "url": "https://www.tiktok.com/@lumierecoffeehn",
+      "displayName": "Lumiére Coffee",
+      "followers": 232,
+      "following": 8,
+      "totalLikes": 1080,
+      "videos": 11,
+      "bio": "",
+      "bioLink": null,
+      "verified": false,
+      "accountCreated": "2026-05-07T01:41:17Z",
+      "confidence": "confirmed"
+    },
+    "facebook": null,
+    "facebookNote": "No Facebook page for this business could be found."
+  },
+  "offerings": {
+    "note": "No menu or prices are published online. Derived from post captions and third-party descriptions.",
+    "items": ["Coffee", "Breakfasts (advertised as a varied breakfast menu)", "Brunch", "Pastries and cakes", "Desserts"],
+    "positioning": ["Elegant", "Cozy / acogedor", "Warm", "Detail-oriented", "Faith and purpose driven branding"],
+    "confidence": "reported"
+  },
+  "posts": [
+    {
+      "date": "2026-05-07T14:16:00Z",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7637153735298256148",
+      "likes": 50,
+      "caption": "Donde el café se convertirá en experiencia y cada detalle transmitirá calidez.☕️✨ Muy pronto, Lumiére Coffee abrirá sus puertas para ofrecer un espacio elegante, acogedor y lleno de esencia, creado para quienes disfrutan los pequeños momentos que iluminan el alma. 🤍 Un nuevo destino en Valle de Ángeles está por comenzar. y queremos compartirlo contigo. #cafe #valledeangeles",
+      "note": "Pre-opening teaser"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DYh7sl-TsLB/",
+      "likes": 40,
+      "comments": 0,
+      "caption": "El desayuno perfecto si existe y te está esperando en Lumiére Coffee #valledeangeles #CoffeeLovers #brunchspot",
+      "note": "Earliest post found that implies the café is trading"
+    },
+    {
+      "date": "2026-05-26T12:48:00Z",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7644181518511869204",
+      "caption": "",
+      "note": "Untitled, 'Cafe Music' audio"
+    },
+    {
+      "date": "2026-05-26T12:55:00Z",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7644183422608411925",
+      "likes": 53,
+      "caption": "La combinación perfecta para alegrar tu día!☕️🍰😮‍💨 #valledeangeles #coffeelover #lumierecoffee"
+    },
+    {
+      "date": "2026-05-27T14:58:00Z",
+      "platform": "tiktok",
+      "author": "valledeangeles.honduras",
+      "url": "https://www.tiktok.com/@valledeangeles.honduras/video/7644586081832291591",
+      "caption": "☕✨ ¡Date un gusto y visita Café Lumiere! ✨☕ Disfruta de un delicioso café, exquisitos desayunos y un ambiente acogedor perfecto para compartir en familia, con amigos o simplemente consentirte. 🍳🥐☕ Déjate sorprender por su rico menú y el encanto de un lugar ideal para comenzar tu día o disfrutar una agradable tarde. 🌿 📍 Dirección: Una cuadra abajo del parque, Portal del Valle, esquina opuesta a Plaza Mineral. ¡Te esperamos en Café Lumiere para vivir una experiencia llena de sabor y buen ambiente! 🤎 . . 📸Otto Chavez",
+      "note": "Third-party tourism account. Only published street-level address."
+    },
+    {
+      "date": "2026-05-29",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/DY7hWPgTzpu/",
+      "likes": 52,
+      "comments": 0,
+      "caption": "Una parada obligatoria en Valle de Ángeles ☕ Te enseñamos cómo llegar a Lumière Coffee #coffee #valledeangeles"
+    },
+    {
+      "date": "2026-05-29T14:36:00Z",
+      "platform": "tiktok",
+      "author": "valledeangeles.honduras",
+      "url": "https://www.tiktok.com/@valledeangeles.honduras/video/7645322609202105607",
+      "caption": "☕✨ ¡Date un gusto y visita Café Lumiere! ✨☕ … 📍 Dirección: Una cuadra abajo del parque, Portal del Valle, esquina opuesta a Plaza Mineral. 🤎@Lumiére Coffee",
+      "note": "Second tourism-account feature, tags the café"
+    },
+    {
+      "date": "2026-05-30",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/DY94nMeTyrM/",
+      "likes": 26,
+      "comments": 0,
+      "caption": "Un desayuno rico, una buena actitud y todo listo para un gran día, ven y disfruta de nuestra variedad de desayunos, solo en Lumiére Coffee. #valledeangeles #coffeetime"
+    },
+    {
+      "date": "2026-06",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/DY42HW7zNtq/",
+      "caption": "Un rincón que merece ser compartido!🤎 ☕️ #valledeangeles #coffeetime",
+      "note": "Exact date not recovered"
+    },
+    {
+      "date": "2026-06-13",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/DZiXZoqTeOb/",
+      "likes": 21,
+      "comments": 2,
+      "caption": "Pequeños detalles que hacen grandes momentos Te esperamos en Lumière Coffee. ☕️ #coffee #valledeangeles"
+    },
+    {
+      "date": "2026-07-10",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/p/DaohEO9zz3b/",
+      "likes": 95,
+      "comments": 4,
+      "caption": "POV: Haaland descubrió Lumière Coffee y ahora no deja de venir. Vendrías por uno? ☕️🥐 ⚽️"
+    },
+    {
+      "date": "2026-07-15",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/Da1c-b1OiiA/",
+      "likes": 49,
+      "comments": 0,
+      "caption": "Si se te antojó con solo verlo, imagínate probarlo en persona. Date una vuelta por Lumière Coffee hoy y disfruta del mejor ambiente. ☕🫶🏼 #coffee #valledeangeles"
+    },
+    {
+      "date": "2026-09-15T19:53:00Z",
+      "platform": "tiktok",
+      "url": "https://www.tiktok.com/@lumierecoffeehn/video/7685852557058624788",
+      "likes": 422,
+      "comments": 34,
+      "caption": "Feriado + Valle de Ángeles = Plan resuelto. Date una vuelta cerquita de la capital, disfrutá el camino y aprovechá la promoción sorpresa que tenemos preparada para estos feriados. 🤎☕️ #parati Estamos ubicados en Hotel Boutique La Casona📍 #ValleDeÁngeles #Honduras #Feriados #Lumiere",
+      "note": "Best-performing post to date; most recent confirmed activity"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "instagram",
+      "url": "https://www.instagram.com/reel/DdUWIH2z5uw/",
+      "likes": 138,
+      "comments": 48,
+      "caption": "Feriado + Valle de Ángeles = Plan resuelto. […] Estamos ubicados en Hotel Boutique La Casona📍 #ValleDeÁngeles #Honduras #Feriados #Lumiere",
+      "note": "Instagram counterpart of the TikTok above"
+    }
+  ],
+  "absentFrom": [
+    { "platform": "Google Maps", "note": "No indexed listing found. Maps itself is JavaScript-only so this is suggestive, not conclusive." },
+    { "platform": "OpenStreetMap", "note": "Overpass returned 18 food POIs in the Valle de Ángeles bbox; none is Lumière." },
+    { "platform": "RestaurantGuru", "note": "Valle de Ángeles page lists ~90 venues, zero mentions." },
+    { "platform": "TripAdvisor", "note": "No listing." },
+    { "platform": "Yelp", "note": "No listing." },
+    { "platform": "Foursquare", "note": "No listing." },
+    { "platform": "Waze", "note": "No listing." },
+    { "platform": "News media", "note": "No Honduran press coverage found." },
+    { "platform": "Reviews", "note": "No customer reviews on any platform." }
+  ],
+  "disputedClaims": [
+    {
+      "claim": "Galería Sixtina inaugurated Café Lumiere on 27 May 2026.",
+      "status": "unverified",
+      "detail": "Asserted by an AI search summary, not reproducible in any primary source. Galería Sixtina (painter Julio Visquerra's gallery) is reported to be in Portal del Valle, and the café is in Portal del Valle, but a shared address does not establish that the gallery opened the café."
+    },
+    {
+      "claim": "The café has closed.",
+      "status": "refuted",
+      "detail": "A 2026-09-23 TikTok from @valledeangeles.honduras reading 'Esperamos que pronto esté abierto de nuevo' surfaced in searches for the café, but that video's embedded page data contains no mention of Lumière. It is about a different venue. Most recent confirmed café activity is 2026-09-15."
+    }
+  ],
+  "nameCollisions": [
+    { "name": "Lumiere", "location": "Mall Multiplaza, Tegucigalpa, Honduras", "note": "New Orleans-influenced restaurant, tel. 2231-2382. Same department — highest confusion risk." },
+    { "name": "Café Lumière", "location": "San Miguel Chapultepec, Mexico City, Mexico", "note": "Cinema-themed" },
+    { "name": "Cafe Lumiere", "location": "Ciprés, Toluca, Mexico" },
+    { "name": "LUMIÈRE Coffee & Cafe", "location": "Branson, Missouri, USA" },
+    { "name": "Lumiere Cafe", "location": "Surry Hills, Sydney, Australia" },
+    { "name": "Cafe Lumiere", "location": "Kuala Selangor, Malaysia" },
+    { "name": "Lumiere cafe", "location": "Dubai, UAE" },
+    { "name": "Lumière", "location": "Fairmont Century Plaza, Los Angeles, USA" },
+    { "name": "Lumiere coffee", "location": "Hanoi, Vietnam" }
+  ],
+  "localCompetitors": [
+    { "name": "Varietal Coffee Roasters", "note": "Roasts in-house, terrace with mountain views. The local specialty-coffee benchmark." },
+    { "name": "Café Beverly", "address": "Barrio abajo, segunda entrada, contiguo a bufete Trejo", "phone": "8789-4205", "hours": "08:00-20:00 daily", "website": "https://cafebeverly.com/", "note": "Mexican-influenced menu, delivers across Valle de Ángeles" },
+    { "name": "The Corsair Coffee Shop", "address": "Frente a Banasupro, calle principal de los negocios", "coordinates": [14.15772, -87.04229], "note": "Pet café" },
+    { "name": "Cafeteando HN", "phone": "+504 3359-6994", "coordinates": [14.15953, -87.04234] },
+    { "name": "D'Palo Coffee Bar", "coordinates": [14.1627984, -87.043862] },
+    { "name": "Café El Ático", "coordinates": [14.1578723, -87.0426974] },
+    { "name": "La Ruta Café" },
+    { "name": "Don Pacheco Coffee Co" },
+    { "name": "Los Lirios Cafe Mariposario" },
+    { "name": "Cafetería Meraz" }
+  ],
+  "sources": [
+    "https://www.instagram.com/lumierecoffee_hn/",
+    "https://www.tiktok.com/@lumierecoffeehn",
+    "https://www.tiktok.com/oembed",
+    "http://www.portaldelvallehn.com/",
+    "https://hotellacasonahn.com/",
+    "https://www.facebook.com/lacasonahotelhnd/",
+    "https://restaurantguru.com/Valle-de-Angeles",
+    "https://overpass-api.de/api/interpreter",
+    "https://nominatim.openstreetmap.org/",
+    "https://html.duckduckgo.com/html/"
+  ]
+}
